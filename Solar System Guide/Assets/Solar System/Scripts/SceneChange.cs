@@ -3,12 +3,8 @@ using UnityEngine.SceneManagement;
 
 public class SceneChange : MonoBehaviour
 {
-    public void ChangePlanet(int numberScene)
+    public void ChangePlane(int sceneIndex)
     {
-        SceneManager.LoadScene(numberScene);
-    }
-    public void Exit()
-    {
-        Application.Quit();
+        SceneManager.LoadScene(sceneIndex);
     }
 }

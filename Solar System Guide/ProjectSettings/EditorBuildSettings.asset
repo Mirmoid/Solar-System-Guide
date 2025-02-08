@@ -8,6 +8,33 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SolarSystem.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/PlanetsSurfaces/SunSurface.unity
+    guid: 23180cbf2b8babf4b913e327159b29d4
+  - enabled: 1
+    path: Assets/Scenes/PlanetsSurfaces/VenusSurface.unity
+    guid: dc12a7a962fb86c409a5930e08495db9
+  - enabled: 1
+    path: Assets/Scenes/PlanetsSurfaces/SaturnSurface.unity
+    guid: 176338ee13cda4446a9aa7356c9e264a
+  - enabled: 1
+    path: Assets/Scenes/PlanetsSurfaces/NeptuneSurface.unity
+    guid: fdf22c3df323d5847a70cb8e4fcf6671
+  - enabled: 1
+    path: Assets/Scenes/PlanetsSurfaces/MercurySurface.unity
+    guid: f027991fa09ca6a4fa92a3da9dc368a2
+  - enabled: 1
+    path: Assets/Scenes/PlanetsSurfaces/MarsSurface.unity
+    guid: 6ef166c79623d1a4599e5f63865db8b5
+  - enabled: 1
+    path: Assets/Scenes/PlanetsSurfaces/JupiterSurface.unity
+    guid: dc45fb5f614c1fe41b974eaf3993420d
+  - enabled: 1
+    path: Assets/Scenes/PlanetsSurfaces/EarthSurface.unity
+    guid: 6003394a1cfef4c4cbf5dbd04d0484e6
+  - enabled: 1
+    path: Assets/Scenes/PlanetsSurfaces/UranusSurface.unity
+    guid: dbecc419e9b1fbd43b5d818e436aab29
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
