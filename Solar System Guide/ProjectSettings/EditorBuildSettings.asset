@@ -30,11 +30,11 @@ EditorBuildSettings:
     path: Assets/Scenes/PlanetsSurfaces/JupiterSurface.unity
     guid: dc45fb5f614c1fe41b974eaf3993420d
   - enabled: 1
-    path: Assets/Scenes/PlanetsSurfaces/EarthSurface.unity
-    guid: 6003394a1cfef4c4cbf5dbd04d0484e6
-  - enabled: 1
     path: Assets/Scenes/PlanetsSurfaces/UranusSurface.unity
     guid: dbecc419e9b1fbd43b5d818e436aab29
+  - enabled: 1
+    path: Assets/Scenes/PlanetsSurfaces/Earth Planet/EarthSurface.unity
+    guid: c3bcf6eb465fb2f4684bc4cb6d75d664
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
