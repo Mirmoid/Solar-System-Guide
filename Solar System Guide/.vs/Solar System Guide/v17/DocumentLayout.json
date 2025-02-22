@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\it-cube\\Documents\\GitHub\\Solar-System-Guide\\Solar System Guide\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B146A946-55F9-424D-84E9-0CA95CAF3BCC}|Assembly-CSharp.csproj|c:\\users\\it-cube\\documents\\github\\solar-system-guide\\solar system guide\\assets\\solar system\\scripts\\hidebackbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B146A946-55F9-424D-84E9-0CA95CAF3BCC}|Assembly-CSharp.csproj|solutionrelative:assets\\solar system\\scripts\\hidebackbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B146A946-55F9-424D-84E9-0CA95CAF3BCC}|Assembly-CSharp.csproj|c:\\users\\it-cube\\documents\\github\\solar-system-guide\\solar system guide\\assets\\solar system\\scripts\\settingsbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B146A946-55F9-424D-84E9-0CA95CAF3BCC}|Assembly-CSharp.csproj|solutionrelative:assets\\solar system\\scripts\\settingsbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B146A946-55F9-424D-84E9-0CA95CAF3BCC}|Assembly-CSharp.csproj|c:\\users\\it-cube\\documents\\github\\solar-system-guide\\solar system guide\\assets\\solar system\\scripts\\buttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B146A946-55F9-424D-84E9-0CA95CAF3BCC}|Assembly-CSharp.csproj|solutionrelative:assets\\solar system\\scripts\\buttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HideBackButton.cs",
-              "DocumentMoniker": "C:\\Users\\it-cube\\Documents\\GitHub\\Solar-System-Guide\\Solar System Guide\\Assets\\Solar System\\Scripts\\HideBackButton.cs",
-              "RelativeDocumentMoniker": "Assets\\Solar System\\Scripts\\HideBackButton.cs",
-              "ToolTip": "C:\\Users\\it-cube\\Documents\\GitHub\\Solar-System-Guide\\Solar System Guide\\Assets\\Solar System\\Scripts\\HideBackButton.cs",
-              "RelativeToolTip": "Assets\\Solar System\\Scripts\\HideBackButton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Title": "Buttons.cs",
+              "DocumentMoniker": "C:\\Users\\it-cube\\Documents\\GitHub\\Solar-System-Guide\\Solar System Guide\\Assets\\Solar System\\Scripts\\Buttons.cs",
+              "RelativeDocumentMoniker": "Assets\\Solar System\\Scripts\\Buttons.cs",
+              "ToolTip": "C:\\Users\\it-cube\\Documents\\GitHub\\Solar-System-Guide\\Solar System Guide\\Assets\\Solar System\\Scripts\\Buttons.cs",
+              "RelativeToolTip": "Assets\\Solar System\\Scripts\\Buttons.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T14:56:15.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SettingsButton.cs",
-              "DocumentMoniker": "C:\\Users\\it-cube\\Documents\\GitHub\\Solar-System-Guide\\Solar System Guide\\Assets\\Solar System\\Scripts\\SettingsButton.cs",
-              "RelativeDocumentMoniker": "Assets\\Solar System\\Scripts\\SettingsButton.cs",
-              "ToolTip": "C:\\Users\\it-cube\\Documents\\GitHub\\Solar-System-Guide\\Solar System Guide\\Assets\\Solar System\\Scripts\\SettingsButton.cs",
-              "RelativeToolTip": "Assets\\Solar System\\Scripts\\SettingsButton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T14:44:33.047Z",
+              "WhenOpened": "2025-02-22T14:14:18.109Z",
               "EditorCaption": ""
             }
           ]
